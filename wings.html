@@ -11,8 +11,12 @@
 	<script type="text/javascript" src="//use.typekit.net/ill2iic.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<link href="styles.css" rel="stylesheet" type="text/css" media="all">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script src="recipe.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("h3:contains(' Ingredients' )").addClass('ingredients');
+		});
+	</script>
 </head>
 <body>
 <div class="wrapper">
