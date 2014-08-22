@@ -1,1 +1,1 @@
-$("h3:contains('Ingredients)").addClass('ingredients');
+$("h3").addClass('ingredients');
