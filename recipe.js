@@ -1,4 +1,4 @@
 $(document).ready(function() {
-	$("h3:contains('Method')").addClass('ingredients');
+	$("h3:contains('Ingredients')").addClass('ingredients');
 	$('.ingredients','ul').wrapAll.( "<div></div>" );
 });
