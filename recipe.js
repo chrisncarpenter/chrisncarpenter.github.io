@@ -16,5 +16,5 @@ $(document).ready(function() {
 	$("h3:contains('Equipment')").addClass('equipment');
 	$(".ingredients").next().andSelf().wrapAll('<div class="co2" />');
 	$(".equipment").next().andSelf().wrapAll('<div class="co2" />');
-	equalHeight($(".co2"));
+	equalHeight(".co2");
 });
