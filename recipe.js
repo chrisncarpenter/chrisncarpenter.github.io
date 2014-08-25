@@ -3,5 +3,7 @@ $(document).ready(function() {
 
 
 	$("h3:contains('Ingredients')").addClass('ingredients');
-	$(".ingredients").next().andSelf().wrapAll('<div id="newDiv" />');
+	$("h3:contains('Equipment')").addClass('equipment');
+	$(".ingredients").next().andSelf().wrapAll('<div class="co2" />');
+	$(".equipment").next().andSelf().wrapAll('<div class="co2" />');
 });
