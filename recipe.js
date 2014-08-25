@@ -1,7 +1,7 @@
 function equalHeight(group) {
    tallest = 0;
    group.each(function() {
-      thisHeight = jq(this).height();
+      thisHeight = $(this).height();
       if(thisHeight > tallest) {
          tallest = thisHeight;
       }
