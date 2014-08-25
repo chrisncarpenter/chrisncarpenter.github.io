@@ -4,4 +4,4 @@
 li {  font-family: "ff-meta-web-pro",sans-serif; }
 
 h6.countryOrigin { font-style:italics; padding:0 0 0 25px; }
-.usa { background: ('http://chrisncarpenter.github.io/images/usa.gif') no-repeat top left;}
+.usa { background: url('http://chrisncarpenter.github.io/images/usa.gif') no-repeat top left;}
