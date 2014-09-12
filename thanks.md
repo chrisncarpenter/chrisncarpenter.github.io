@@ -2,6 +2,6 @@
 layout: page
 title: Thanks
 permalink: /contact/thanks/
-visible: 1
+show_in_nav: false
 ---
 
