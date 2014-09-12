@@ -2,6 +2,7 @@
 layout: post
 title: Twice cooked Buffalo wings
 excerpt: Just a test
+img: test.png
 ---
 
 # Twice cooked Buffalo wings
