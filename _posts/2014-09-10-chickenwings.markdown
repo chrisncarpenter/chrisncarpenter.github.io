@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twice cooked Buffalo wings
-intro: Just a test
+excerpt: Just a test
 ---
 
 # Twice cooked Buffalo wings
