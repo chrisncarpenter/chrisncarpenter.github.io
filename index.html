@@ -11,12 +11,10 @@ layout: default
       <li style="background: url('/imgs/{{ post.img }}') no-repeat top left;">
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br />
-         {% if post.img =! null %}
-   			 <img src="/imgs/{{ post.img }}" ><br />
-		{% endif %}
          
          
          
+         <img src="/imgs/{{ post.img }}" ><br />
         {{ post.excerpt }}
       </li>
     {% endfor %}
