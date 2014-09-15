@@ -3,7 +3,7 @@ layout: post
 title: Twice cooked Buffalo wings
 excerpt: Just a test
 img: test.png
-cusine: Junk food
+cusine: American
 ---
 
 # Twice cooked Buffalo wings
