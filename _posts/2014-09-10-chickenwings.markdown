@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Twice cooked Buffalo wings
+excerpt: Just a test
+img: test.png
+cusine: American
 ---
 
 # Twice cooked Buffalo wings
