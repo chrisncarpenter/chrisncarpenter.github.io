@@ -6,6 +6,7 @@ img: test.png
 cusine: Junk food
 preptime: 3 hours
 cookingtime: 5-10 minutes
+permalink: twice-cooked-buffalo-wings
 ---
 
 # Twice cooked Buffalo wings
@@ -24,6 +25,14 @@ cookingtime: 5-10 minutes
 * Tbs finely chopped **coriander**
 * 1tbs **Lime juice**
 * 1l **sunflower oil**
+
+### Equipment
+
+* Pressure cooker
+* Mixing bowl
+* Saucepan, small
+* Saucepan, large or deepfryer
+* Slotted spoon
 
 ### Method
 
