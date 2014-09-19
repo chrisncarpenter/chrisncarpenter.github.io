@@ -2,8 +2,9 @@
 <html>
 
   {% include head.html %}
-
-    <body>
+	{% for dale in site.data.nav %}
+    <body id="{{dale.id}}">
+    {% endfor %}
 
     {% include header.html %}
 
