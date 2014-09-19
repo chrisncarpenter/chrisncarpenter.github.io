@@ -12,7 +12,7 @@
     <ul class="nav navbar-nav navbar-right">
 		{% for dale in site.data.nav %}
 		<li>
-		<a  id="{{dale.id}}" href="{{ site.url }}{{ dale.href }}">{{ dale.title }}</a>
+		<a  id="{{dale.id}}" href="{{ dale.href }}">{{ dale.title }}</a>
 		</li>
 		{% endfor %}
     </ul>
