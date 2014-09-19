@@ -6,7 +6,7 @@ img: test.png
 cusine: Junk food
 preptime: 3 hours
 cookingtime: 5-10 minutes
-permalink: /recipes/twice-cooked-buffalo-wings
+permalink: twice-cooked-buffalo-wings
 ---
 
 # Twice cooked Buffalo wings
