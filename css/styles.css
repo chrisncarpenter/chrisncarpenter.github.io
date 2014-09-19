@@ -10,4 +10,5 @@ h6.countryOrigin { font-style:italic; padding:0 0 0 35px; font-size: 16px; line-
 
 .collapse {float:right;}
 .nav {margin:0;padding:0;list-style:none;}
-.collapse .nav li {float:left; height:56px;line-height:56px;padding:0 5px;}
+.collapse .nav li {float:left; height:56px;line-height:100px;padding:0 5px;}
+#nav-logo {background: url('/imgs/logo.png') no-repeat top left; width:100px;text-indent:-5000px;display:block; height:100px;}
