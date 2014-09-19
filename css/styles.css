@@ -7,3 +7,7 @@ li {  font-family: "ff-meta-web-pro",sans-serif; }
 h6.countryOrigin { font-style:italic; padding:0 0 0 35px; font-size: 16px; line-height: 16px; font-weight: normal; }
 .usa { background: url('http://chrisncarpenter.github.io/images/usa.gif') no-repeat top left;}
 .co2 { width:310px; float:left;}
+
+.collapse {float:right;}
+.nav {margin:0;padding:0;list-style:none;}
+.collapse .nav li {float:left; height:56px;line-height:56px;padding:0 5px;}

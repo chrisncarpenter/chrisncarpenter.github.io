@@ -5,6 +5,10 @@
 - title: "Recipes"
   href: "/recipes/"
   id: "recipes"
+  
+- title: "Adventures in a kitchen"
+  href: "/"
+  id: "logo"
  
 - title: "About"
   href: "/about/"
