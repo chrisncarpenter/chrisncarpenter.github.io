@@ -11,3 +11,21 @@ h6.countryOrigin { font-style:italic; padding:0 0 0 35px; font-size: 16px; line-
 .collapse {float:right;}
 .nav {margin:0;padding:0;list-style:none;}
 .collapse .nav li {float:left; height:56px;line-height:100px;padding:0 5px;}
+.navbar {
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.navbar li{
+    display:inline;
+}
+.navbar a{
+    display:inline-block;
+    height:100px;
+    line-height:100px;
+}
+
+#nav-logo { text-indent:-5000px; background:url('/imgs/logo.png') no-repeat top left;width:100px; }
