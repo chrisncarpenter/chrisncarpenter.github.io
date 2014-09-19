@@ -6,8 +6,8 @@
     <div class="container">
  
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-    <ul class="nav navbar-nav navbar-right">
+    <div class="navContainer">
+    <ul class="nav">
 		{% for dale in site.data.nav %}
 		<li>
 		<a  id="nav-{{dale.id}}" href="{{ dale.href }}">{{ dale.title }}</a>
