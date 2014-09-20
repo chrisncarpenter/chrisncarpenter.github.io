@@ -2,7 +2,10 @@
 <html>
 
   {% include head.html %}
-    <body id="{{nav.dale.id}}">
+	{% for dale in site.data.nav %}
+		{% if  page.url == {{dale.href}} %}
+    		<body id="{{dale.id}}">
+    {% endfor %}
 
     {% include header.html %}
 
