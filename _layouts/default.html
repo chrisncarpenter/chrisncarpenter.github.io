@@ -5,8 +5,9 @@
 	{% for dale in site.data.nav %}
 		{% if  page.url == {{dale.href}} %}
     		<body id="{{dale.id}}">
+    	{% endif %}
     {% endfor %}
-
+    
     {% include header.html %}
 
     <div class="page-content">
