@@ -16,6 +16,13 @@ layout: actualpost
   </header>
 
   <article class="post-content">
+  
+  <ul>
+    {% for item in page.ingredients %}
+        <li>{{item.name}}</li>
+    {% endfor %}
+    </ul>
+  
   {{ content }}
   </article>
   <div class="npSlider">

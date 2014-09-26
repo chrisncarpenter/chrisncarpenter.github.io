@@ -7,6 +7,10 @@ cusine: Junk food
 preptime: 3 hours
 cookingtime: 5-10 minutes
 permalink: /recipes/twice-cooked-buffalo-wings
+ingredients:
+  - name: sugar|100grams
+  - name: milk
+  - name: eggs
 ---
 
 # Twice cooked Buffalo wings
