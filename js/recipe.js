@@ -14,9 +14,9 @@ $(document).ready(function() {
 	
 	$('.ingredients li').each(function() {
 		var text= $(this).text();
-		var textAfterPipe = text.substring(text.indexOf('|') + 1);
-		console.log(textAfterPipe);
-    	$(this).wrap(" <strong /> ");
+		var textArray = text.split('|');
+		console.log(textArray[0]);
+    	$(this).html(textArray[0]+ " <strong>"+textArray[1]+"</strong>");
 	});
 
 	$("h3:contains('Equipment')").addClass('equipment');

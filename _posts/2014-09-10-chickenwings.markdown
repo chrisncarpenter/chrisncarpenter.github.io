@@ -8,35 +8,27 @@ preptime: 3 hours
 cookingtime: 5-10 minutes
 permalink: /recipes/twice-cooked-buffalo-wings
 ingredients:
-  - name: 100grams of |sugar
-  - name: milk
-  - name: eggs
+  - name: 2 handfuls of |chicken wings
+  - name: 1 cup of |Cornflour
+  - name: Ground |chilli powder
+  - name: Season with |Salt & Pepper
+  - name: 100ml |Franks RedHot sauce
+  - name: 100g |Butter
+  - name: Ground |cumin
+  - name: Tbs finely chopped |coriander
+  - name: 1tbs |Lime juice
+  - name: 1l |sunflower oil
+equipment:
+  - name: Pressure cooker
+  - name: Mixing bowl
+  - name: Saucepan, small
+  - name: Saucepan, large or a deepfryer
+  - name: Slotted spoon
 ---
 
 # Twice cooked Buffalo wings
 
 ## This recipe comes via chefsteps.com but with a few tweaks
-
-### Ingredients
-
-* 2 handfuls of **chicken wings**
-* **Cornflour**
-* Ground **chilli powder**
-* Salt & Pepper
-* 100ml **Franks RedHot sauce**
-* 100g **Butter**
-* Ground **cumin**
-* Tbs finely chopped **coriander**
-* 1tbs **Lime juice**
-* 1l **sunflower oil**
-
-### Equipment
-
-* Pressure cooker
-* Mixing bowl
-* Saucepan, small
-* Saucepan, large or deepfryer
-* Slotted spoon
 
 ### Method
 

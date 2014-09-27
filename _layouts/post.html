@@ -22,6 +22,12 @@ layout: actualpost
         <li>{{item.name}}</li>
     {% endfor %}
     </ul>
+    <h3>Equipment</h3>
+  <ul class="equipment">
+    {% for item in page.equipment %}
+        <li>{{item.name}}</li>
+    {% endfor %}
+    </ul>
   
   {{ content }}
   </article>
