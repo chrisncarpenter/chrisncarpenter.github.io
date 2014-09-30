@@ -16,6 +16,7 @@ layout: actualpost
   </header>
 
   <article class="post-content">
+  <div class="lhsCol">
   <h3>Ingredients</h3>
   <ul class="ingredients">
     {% for item in page.ingredients %}
@@ -28,8 +29,11 @@ layout: actualpost
         <li>{{item.name}}</li>
     {% endfor %}
     </ul>
+  </div>
   
+  <div class="rhsCol">
   {{ content }}
+  </div>
   </article>
   <div class="npSlider">
   <img src="/imgs/{{ page.previous.img }}" width="100" height="50"> 
