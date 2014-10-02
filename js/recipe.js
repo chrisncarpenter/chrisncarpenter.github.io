@@ -19,9 +19,9 @@ $(document).ready(function() {
     	$(this).html(textArray[0]+ " <strong>"+textArray[1]+"</strong>");
 	});
 
-	$("h3:contains('Equipment')").addClass('equipment');
+
 	$(".equipment").next().andSelf().wrapAll('<div class="co2" />');
-	
+	$(".ingredients").next().andSelf().wrapAll('<div class="co2" />');
 	$( ".co2" ).wrapAll( "<div class='new' />");
 	
 	equalHeight($(".co2"));

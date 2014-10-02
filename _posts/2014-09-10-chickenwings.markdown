@@ -15,7 +15,7 @@ ingredients:
   - name: 100ml |Franks RedHot sauce
   - name: 100g |Butter
   - name: Ground |cumin
-  - name: Tbs finely chopped |coriander
+  - name: 1 Tbs |coriander |finely chopped 
   - name: 1tbs |Lime juice
   - name: 1l |sunflower oil
 equipment:
