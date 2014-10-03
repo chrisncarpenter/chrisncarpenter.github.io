@@ -26,7 +26,7 @@ $(document).ready(function() {
 	
 	equalHeight($(".co2"));
 	
-	$('p:first').html(function (i, html)
+	$('.post-content p:first').html(function (i, html)
 	{
 		return html.replace(/^[^a-zA-Z]*([a-zA-Z])/g, '<span class="big-cap">$1</span>');
 	});

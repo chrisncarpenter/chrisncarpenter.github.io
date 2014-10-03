@@ -26,10 +26,8 @@ equipment:
   - name: tongs
   - name: mixing bowl
 ---
-# Tomato with tarragon chicken with braised shallots
 
-## 
-
+## Tomato with tarragon chicken with braised shallots
 
 ### Method
 
