@@ -3,6 +3,7 @@ layout: post
 title: Twice cooked Buffalo wings
 excerpt: Just a test
 img: test.png
+category: Mine
 cusine: Junk food
 preptime: 3 hours
 cookingtime: 5-10 minutes
