@@ -25,4 +25,11 @@ $(document).ready(function() {
 	$( ".co2" ).wrapAll( "<div class='new' />");
 	
 	equalHeight($(".co2"));
+	
+	$('p:first').html(function (i, html)
+	{
+		return html.replace(/^[^a-zA-Z]*([a-zA-Z])/g, '<span class="big-cap">$1</span>');
+	});
+	
+	
 });
