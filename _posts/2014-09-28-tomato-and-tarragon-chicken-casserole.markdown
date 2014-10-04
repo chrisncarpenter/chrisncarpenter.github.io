@@ -3,7 +3,7 @@ layout: post
 title: Tomato with tarragon chicken with braised shallots
 excerpt:
 img: test.png
-category: Mine
+category: chicken
 cusine: 
 preptime: 10 minutes
 cookingtime: 1-2 hours
