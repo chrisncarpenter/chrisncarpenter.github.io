@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tomato with tarragon chicken with braised shallots
-excerpt:
+excerpt: Very tasty casserole
 img: test.png
 category: chicken
 cusine: 

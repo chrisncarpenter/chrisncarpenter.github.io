@@ -9,12 +9,14 @@ navid: home
 
   <ul class="posts">
     {% for post in site.posts limit: 5 %}
-      <li style="background: url('/imgs/{{ post.img }}') no-repeat top left;">
+      <li
+       {% if post.img != null %}
+      style="background: url('/imgs/{{ post.img }}') no-repeat top left;"
+       {% endif %}
+      >
+      {{ post_count }}
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br />
-         {% if post.img != null %}
-         <img src="/imgs/{{ post.img }}" ><br />
-         {% endif %}
         {{ post.excerpt }}
       </li>
     {% endfor %}

@@ -23,7 +23,7 @@ equipment:
   - name: Pressure cooker
   - name: Mixing bowl
   - name: Saucepan, small
-  - name: Saucepan, large or a deepfryer
+  - name: Saucepan, large or a deep fryer
   - name: Slotted spoon
 ---
 
