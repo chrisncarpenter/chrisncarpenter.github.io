@@ -4,11 +4,11 @@
   {% include head.html %}
 	{% for dale in site.data.nav %}
 		{% if  page.url == {{dale.href}} %}
-    		<body id="{{dale.id}}">
+    		<body id="{{dale.id}}"> <!-- Hello -->
     	{% endif %}
     {% endfor %}
     
-    {% include header.html %}
+{% include header.html %}
     <div class="page-content">
       <div class="wrap">
       {{ content }}
