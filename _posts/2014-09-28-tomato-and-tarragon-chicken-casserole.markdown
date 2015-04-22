@@ -10,7 +10,7 @@ cookingtime: 1-2 hours
 permalink: /recipes/tomato-with-tarragon-chicken-with-braised-shallots
 serves: 2-3 people
 ingredients:
-  - name: 4-6 |chicken thighs|
+  - name: 4-6 |chicken thighs
   - name: 80 g of pancetta
   - name: 2 |garlic cloves thinly sliced
   - name: 8-10 |small shallots

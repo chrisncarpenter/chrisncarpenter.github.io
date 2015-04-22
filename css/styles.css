@@ -1,7 +1,6 @@
 .wrapper {width:620px; margin:0 auto;}
 
 
-li {  font-family: "ff-meta-web-pro",sans-serif; }
 .posts li {padding:0 0 0 110px;}
 
 h6.countryOrigin { font-style:italic; padding:0 0 0 35px; font-size: 16px; line-height: 16px; font-weight: normal; }
@@ -28,6 +27,5 @@ h6.countryOrigin { font-style:italic; padding:0 0 0 35px; font-size: 16px; line-
     line-height:100px;
 }
 
-.nav li {  font-family: "ff-meta-serif-web-pro",sans-serif; }
 
 #nav-logo { text-indent:-5000px; background:url('/imgs/logo.png') no-repeat top left;width:100px; }
